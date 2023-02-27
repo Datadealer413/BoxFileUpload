@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "pa2qwt0bejp0nm53qi7227r17ogrie3z",
+    "clientSecret": "Wat6ATsQqXWt5CLpspsMWWpt4jGFbinW",
+    "appAuth": {
+      "publicKeyID": "5kmszzao",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIqSSux3AWFGwCAggA\nMBQGCCqGSIb3DQMHBAjJoHFFHalZ2ASCBMihhXWJaxckrXMnBVQAyHzUgigtgXBI\npMgTt3K+hmitwKzmn6iXaLCb7zliSq7hgpqledlvZWxUsY9FALgTglb/xjikfONx\nSb1L9UfdgBe1pon7frLy6aqmeMu3etRJvgfo5sDzbK3s5MpCz+lUhHH8+aLu4TEa\ndUqH5T+MnTJ9AMR+gzYV8g3yPUwt7QIxwZdq0O2JhTm4AnEj8X4YAm47DbRrDTqg\nJiLPpYoZojA9JaydoUfW13zRhUqpBJ1lbvc3UnPJFVo2ZBVFrl9hsMh70IShZ1Q3\nxc9wsaGns7m8AxjrDx1cX0zqI74XpDPexa8+36TcpocjnIbSj0bhI+ePUofS2DJz\nt62DpytFUOhejCFyaA1ZsvK2THFZwM1c5vc0xechArzSUnL+V8tRlByTQreZh/Nh\n9cBVimMCblNlVmNNB3V1T4tsd4Mp2KOw7yCEyJ6Ody5HBTPPrurz1M4I1soCABQu\n5pPnm+kNN/2/ugW7Zy5lWnsYr1a9fGU+I9AqLgEZ1m4hS/EcQsiYoQLAh5N9YRDz\nQAhIHyWNBpg6f+9zMWD0Ru/ZYTPxZlYvFoZlkmjbMEzmI9Z2o5qF19hXZME9dEAs\nAtRJr4Abg4Szkn4slu6Ns1r1rva5INC+e/hviX57uwGcSJvVaGlQYFn7ObpnLC5c\nlmr7n+DE+rsAw+aEWkLb8mBvC9CTbDfhFkvb0bTJVRLl1lPHvwgRrLEwYOZ8ijD1\nd3hq7tsS1fWSurbB6VOnjPR9PeHtKteJ99GX68oj8vlTB8VNfciY4BYT4AaVPbnY\nHYyuHFBARtxgjP1cmGq2IwX6yunz87FofAAyaWQEzD8lBHQ9nRHYE4hixeGWTQWR\n3Ui0+E+F6+2QdUoo0jzwezoM3uxxBfM8WesBE0Ql8KVhZdy7GayzMC0rZ5E3YtvP\nGp5Hzi5EV+kXsXtOYU2LpxByxptLWMv+rqx55sDhWXSlbwDlDLFMc8PdiLWEWb2C\ndqyuKN1zWCfM2XVp6fU1ak9wk/xgMbOmnBvxWCX23u2q/GmOlquOJOfJdtoOilPX\n6CLheLMrE6sQvaIoB6Tqd0rsIuHGxQbmEltgjXbzDhqci2eixov1TEugRRXXmLaI\nPgNHvflU1SmR1K/+iKJNYfbjVFuSgTddFfzoRTeyJGTmX3YeFG2hnRh1R6YE1Asj\nNWqtfEAe95QZKcR71m1VxctOSFo+Q1YhHP4/Cklr4ucKsKNRn/UYY63rdUf42r61\nckRn3hkAUkyrJxTI22wFpBjMwDp9F3xY8eEl7bSFSfLwapu1qXv9Y0ZATmsHLeUE\neI17jeUiPI6ZtfEg7gC1BpoJmB+3RA/elqn7oviVzLD2P5jZnncwumBcvNW2RWfF\nsM6HRu5fjJE3uxL//udOWsGitR4Dp7fe1wh6EREEtHbiOpN8zud2kLkXtVTdtfBJ\nk3hsHbMnz5eNQoQ0KvRKAYFqO7Loy9J01qLoTGbvrPHVJQT1YGKiUnakjC3scnZw\nLZi6igvwH+8T/de7Cz1PLLG2QirM/6MZ6hkS4Uqfi/8Do3nRVvhyVqJou/sVjIYA\njipfd9qqQCnmgAurx/SygrV7NG9Dj0zMBvj9bWkxrMFpaQqAyx1SN5wK4OLppnSM\nyKU=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "df7194f442fdb1810491ddb5551cad08"
+    }
+  },
+  "enterpriseID": "978199098"
+}
