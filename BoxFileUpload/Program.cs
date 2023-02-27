@@ -17,10 +17,10 @@ namespace BoxFileUpload
 
     class Program
     {
-        const string CLIENT_ID = "zwjv3w60txbzi58unze5a3hwd388t5ql";
-        const string CLIENT_SECRET = "bdfJiwihi3IDG58dqdRAgYJpaKY4L72m";
-        // const string DEV_ACCESS_TOKEN = "zSi8XS3NioqblDQsNfEe4h5JNi5wzRgi";  //log into developers.box.com and get this for your registered app; it will last for 60 minutes
-        const string ACCESS_TOKEN = "340pDfqoktnMcJvURhqFdb99dFWVTnep";
+        const string CLIENT_ID = "THIS IS CLIENT_ID";
+        const string CLIENT_SECRET = "THIS IS CLIENT_SECRET_TOKEN";
+        // const string DEV_ACCESS_TOKEN = "THIS IS DEV_ACCESS_TOKEN";  //log into developers.box.com and get this for your registered app; it will last for 60 minutes
+        const string ACCESS_TOKEN = "THIS IS ACCESS KEY";
         const string REFRESH_TOKEN = "THIS_IS_NOT_NECESSARY_FOR_A_DEV_TOKEN_BUT_MUST_BE_HERE";
 
         //set these to point to whatever file you want to upload; make sure it exists!
